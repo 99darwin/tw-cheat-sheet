@@ -1,21 +1,21 @@
-# tw-cheat-sheet
+# tw-essentials
 
-Your friendly neighborhood Tailwind component library - because writing components twice is once too many.
+Essential Tailwind components for React - because writing components twice is once too many.
 
 ## Installation
 
 ```bash
-npm install tw-cheat-sheet
+npm install tw-essentials
 # or
-yarn add tw-cheat-sheet
+yarn add tw-essentials
 # or
-pnpm add tw-cheat-sheet
+pnpm add tw-essentials
 ```
 
 ## Usage
 
 ```tsx
-import { Alert, AlertTitle, AlertDescription } from 'tw-cheat-sheet'
+import { Alert, AlertTitle, AlertDescription } from 'tw-essentials'
 
 function App() {
   return (
@@ -37,11 +37,11 @@ function App() {
 - 🎭 Fully customizable
 - 🌙 Dark mode support
 - ⚡ Zero runtime overhead
-- 🌱 Tree-shakeable
+- 🌳 Tree-shakeable
 
-## Why tw-cheat-sheet?
+## Why tw-essentials?
 
-Tired of rewriting the same Tailwind components over and over? We've got you covered. This library provides a collection of pre-built, accessible, and customizable components that you can drop into your projects and start using immediately.
+Tired of rewriting the same Tailwind components over and over? We've got you covered with the essential components you need. This library provides a collection of pre-built, accessible, and customizable components that you can drop into your projects and start using immediately.
 
 ## Requirements
 
